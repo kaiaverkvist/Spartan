@@ -38,5 +38,10 @@ namespace Spartan
 
             return result;
         }
+
+        ValueTask<string> ITemplateLoader.LoadAsync(TemplateContext context, SourceSpan callerSpan, string templatePath)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
