@@ -2,6 +2,8 @@
 
 Web framework written in C#
 
+[![buddy pipeline](https://app.buddy.works/kaiaverkvist/spartan/pipelines/pipeline/202904/badge.svg?token=1f859e3912a306e35092860dd08641ff372682b3717cb8c4f8d6f2e484972411 "buddy pipeline")](https://app.buddy.works/kaiaverkvist/spartan/pipelines/pipeline/202904)
+
 # Vision
 I wanted to create a lightweight MVC framework written in C#. The goal is to implement a templating engine, routing, cookies and other common patterns from various modern MVC frameworks.
 
