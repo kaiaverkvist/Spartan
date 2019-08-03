@@ -21,7 +21,6 @@
     <file src="Spartan.*/**" exclude="Spartan.*/obj/**" target="src" />
     <file src="Spartan.sln" target="src" />
     <file src="README.md" target="src" />
-    <file src=".idea/**" exclude="*" />
     <file src=".git/**" exclude="*"/>
     <file src="./**" exclude="*.png" />
     <file src="./**" exclude="*.svg" />
